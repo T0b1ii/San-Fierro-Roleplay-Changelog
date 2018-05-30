@@ -1,0 +1,44 @@
+Title: San Fierro Roleplay
+Version: v0.8
+
+
+* New features
+	-Haus System
+	-SARC
+	-Fahrschule
+
+
+* Changes
+	-/sit hinzugefügt
+	-/crossarms hinzugefügt
+	-/crossarms2 hinzugefügt
+	-/crossarms3 hinzugefügt
+	-/sellcar hinzugefügt
+	-/developemode hinzugefügt
+	-/scheine hinzugefügt
+	-/schein hinzugefügt
+	-/cone hinzugefügt
+	-/dcone hinzugefügt
+	-/dallcone hinzugefügt
+	-/absperrung hinzugefügt
+	-/dabsperrung hinzugefügt
+	-/dallabsperrung hinzugefügt
+	-/derank hinzugefügt
+	-/fkick hinzugefügt
+	-/finvite hinzugefügt
+	-/acceptfinvite hinzugefügt
+	-/ticket hinzugefügt
+	-/acceptticket hinzugefügt
+	-/clearmarker hinzugefügt
+
+
+* Fixes
+	-Tank Bug behoben
+	-/stats Bug behoben
+	-/warntext verändert
+	-/fmieten Bug behoben
+	-/afk verändert
+
+
+
+Exported on 06.05.2018 19:47:06
