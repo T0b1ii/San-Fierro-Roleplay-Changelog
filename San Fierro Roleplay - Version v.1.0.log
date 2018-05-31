@@ -1,0 +1,93 @@
+Title: San Fierro Roleplay
+Version: v.1.0
+
+
+* New features
+	-E-Mail Adresse bei Registrierung
+	-Skin Shop (simpel)
+	-/s hinzugefügt
+	-/l hinzugefügt
+	-/trailermode hinzugefügt (Co & Projektleiter)
+	-2. Buslinie hinzugefügt
+	-Weitere Trucker Route hinzugefügt (ab 75 EXP)
+	-Weitere Trucker Route hinzugefügt (Ab 125 EXP)
+	-Sniper für S.W.A.T hinzugefügt
+	-Beta-Tester als Admin Rang hinzugefügt
+	-E-Mail in /stats hinzugefügt
+	-Waffenschein hinzugefügt
+	-/givebe hinzugefügt
+	-Ammunation hinzugefügt
+	-Fraktions Spawn für SFRC hinzugefügt
+	-Weitere Essens Läden hinzugefügt
+	-/pay hinzugefügt
+	-10 Minuten Auto-Speicherung eingeführt
+	-/elm hinzugefügt und automatisches ELM entfernt
+	-/chairsit hinzugefügt
+	-/stripweapons hinzugefügt
+	-Waffenschein im MDC
+	-/warn hinzugefügt
+	-/pdhut hinzugefügt
+	-/pdweste hinzugefügt
+	-/pdschlagstock hinzugefügt
+	-/pdspraycan hinzugefügt
+	-/pdbrille hinzugefügt
+	-/flock hinzugefügt
+	-/fkofferraum hinzugefügt
+	-/navi hinzugefügt
+	-/eject hinzugefügt
+	-RP-Namen über dem Kopf
+	-/klingel hinzugefügt
+	-/fenster hinzugefügt
+
+
+* Changes
+	-Zustand Anzeige unter den Chat versetzt
+	-Text Farbe bei /me geändert
+	-Text Farbe bei /do geändert
+	-Command Rechte angepasst (für Admins)
+	-Entfernungen vom Chat überarbeitet (Sehdistanz)
+	-Notarzt/Feuerwehr bei /notruf hinzugefügt
+	-Verschiedene virtuelle Welten zu dem Haus System hinzugefügt
+	-Ein paar SFPD Autos entfernt und durch LS, LV und Bikes ersetzt
+	-Sirene zum SFRC Laddertruck hinzugefügt
+	-Bei /trailermode verschwinden nun die Namen
+	-Motorräder zu Wang Cars hinzugefügt
+	-AdminChat in Team-Chat umbenannt
+	-Zeiten von Toren und Türen höher gesetzt
+	-Waffendealer Job entfernt
+	-Discord LInk in INFOS Timer geändert
+	-Benutzer Fahrzeuge haben nun den Namen als Nummernschild
+	-Fratkions Autos in Die Datenbank eingefügt anstatt ins Script
+	-Anpassungen beim Death-System
+	-Anpassungen bei /fkofferraum
+	-Mapping
+	-/bl für Buffallo, Cheetah und Infernus eingefügt
+	-Admin Rang bei /a hinzugefügt
+	-Mehr Bäume zum fällen hinzugefügt (Holzfäller)
+	-NEF zur kleinen SFRC Basis hinzugefügt
+	-Automatischer Rauswurf aus Fraktions Fahrzeug entfernt
+
+
+* Fixes
+	-Bug bei Spieler speichern behoben
+	-Bug mit Spieler Level behoben
+	-Bug bei /heal behoben
+	-Bug bei /givebe behoben
+	-Bug bei /showscheine behoben
+	-Bug bei /exit behoben (Essens Läden)
+	-Bug bei Todes System behoben
+	-Bug bei /get behoben
+	-Bug bei /goto behoben
+	-Bug mit Pickups und Text Labeln behoben
+	-Bug mit Buildings System behoben
+	-Bug im Chat behoben
+	-Bug bei OnPlayerTakeDamage behoben
+	-Bug bei Laden System behoben
+	-Bug bei Holzfäller behoben
+	-Rechtschreibfehler bei PayDay behoben
+	-Rechtschreibfehler bei Fahrschule behoben
+	-Rechtschreibfehler bei /stk behoben
+
+
+
+Exported on 31.05.2018 14:00:45
